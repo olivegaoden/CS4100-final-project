@@ -1,0 +1,2 @@
+avg_score,avg_max_tile,scores,max_tiles
+773.3333333333334,85.33333333333333,"[np.int64(1064), np.int64(552), np.int64(704)]","[np.int64(128), np.int64(64), np.int64(64)]"
